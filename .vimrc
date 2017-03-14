@@ -15,5 +15,6 @@ set expandtab
 set autoindent
 set smarttab
 
+:color desert
 
 
