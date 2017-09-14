@@ -1,0 +1,9 @@
+{
+    "files.eol":"\n",
+    "window.openFilesInNewWindow":"on",
+    "window.zoomLevel": 1,
+    "C_Cpp.intelliSenseEngine": "Default",
+    "vim.disableAnnoyingNeovimMessage": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "window.title":"${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}"
+}
