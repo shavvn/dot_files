@@ -17,4 +17,6 @@ set smarttab
 
 :color desert
 
+syntax on
+
 
